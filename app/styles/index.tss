@@ -1,0 +1,44 @@
+/*styling for the tabs in iOS devices*/
+"TabGroup[platform = ios]": {
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	tabsTintColor: "#6A9E68",
+	tintColor: "#ffffff"
+}
+
+"#tab1[platform = ios]":{
+	title: L('tab1_title'),
+	icon:"images/schedule.png"
+}
+
+"#tab2[platform = ios]":{
+	title: L('tab2_title'),
+	icon:"images/venue.png"
+}
+
+"#tab3[platform = ios]":{
+	title: L('tab3_title'),
+	icon:"images/conversation.png"
+}
+
+"#tab4[platform = ios]":{
+	title: L('tab4_title'),
+	icon: "images/videos.png"
+}
+
+/*styling for the tabs in Android devices*/
+"#tab1[platform = ios]":{
+	icon:"/images/schedule.png"
+}
+
+"#tab2[platform = ios]":{
+	icon:"/images/venue.png"
+}
+
+"#tab3[platform = ios]":{
+	icon:"/images/conversation.png"
+}
+
+"#tab4[platform = ios]":{
+	icon: "/images/videos.png"
+}

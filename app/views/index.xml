@@ -1,0 +1,16 @@
+<Alloy>
+		<TabGroup>
+			<Tab id="tab1">
+				<Require src="schedule" id="scheduleTab"></Require>
+			</Tab>
+			<Tab id="tab2">
+				<Require src="venue" id="venueTab"></Require>
+			</Tab>
+			<Tab id="tab3">
+				<Require src="conversation" id="conversationTab"></Require>
+			</Tab>
+			<Tab id="tab4">
+				<Require src="videos" id="videosTab"></Require>
+			</Tab>
+		</TabGroup>
+</Alloy>
