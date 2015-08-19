@@ -5,7 +5,7 @@
     <version>1.0</version>
     <publisher>epeharda</publisher>
     <url>http://tabbedproject.erica.com</url>
-    <description/>
+    <description>undefined</description>
     <copyright>2015 by epeharda</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
@@ -38,7 +38,12 @@
             </dict>
         </plist>
     </ios>
-    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+ <android xmlns:android="http://schemas.android.com/apk/res/android">
+		<manifest>
+			<application android:theme="@style/Theme.Greenab"/>
+        	<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="21"/>
+        </manifest>
+	</android>
     <mobileweb>
         <precache/>
         <splash>

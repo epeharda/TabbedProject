@@ -7,7 +7,7 @@ $.index.addEventListener('open', function(evt){
 	if(OS_ANDROID){
 		//activity is an android concept - not a titanium one
 		var activity = evt.source.getActivity();
-		var actionbar = activitiy.actionBar;
+		var actionbar = activity.actionBar;
 		actionbar.title = "The Alloy Conference";
 	}
 });
