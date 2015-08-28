@@ -1,0 +1,74 @@
+[
+	{
+		"time":"8am-9am",
+		"room":"Lobby",
+		"title":"Registration",
+		"speaker":"",
+		"description":"Come to the registration tables and get your badge and goodie bags.",
+		"speakerbio": ""
+	},
+	{
+		"time":"9am-10:30am",
+		"room":"Main room",
+		"title":"Keynote",
+		"speaker":"Scott Jurek",
+		"description":"Scott Jurek will be speaking about his experiences with running on a purely vegan diet.",
+		"speakerbio": "Scott Jurek's outstanding competitive resume includes victories in nearly all of ultrarunning's elite trail and road events, including the historic 153-mile Spartathlon, the Hardrock 100, the Badwater 135-mile Ultramarathon, the Miwok 100K, and—his signature race—the Western States 100 Mile Endurance Run, which he won a record seven straight times. The Washington Times named him one of the top runners of the decade, Runner's World awarded him a Hero of Running and Ultrarunning Magazine named him Ultra-Runner of the Year three times."
+	},
+	{
+		"time":"10:30am-Noon",
+		"room":"Main Room",
+		"title":"Animal Welfare",
+		"speaker":"Adam Smith",
+		"description":"In this talk, Adam will be discussing the current issues as they relate to animal welfare in the United States.",
+		"speakerbio": "Adam is Professor of Animal and Poultry Sciences at Virginia Polytechnic Institute & State University.  He received a B.S. degree in Animal Science from The Ohio State University and the M.S. and Ph.D. in Animal Breeding from the University of Nebraska."
+	},
+	{
+		"time":"Noon-1:30pm",
+		"room":"",
+		"title":"Lunch",
+		"speaker":"",
+		"description":"Enjoy a beautifully catered, farm to table, vegan meal by Ollin Farms - a Colorado Local.",
+		"speakerbio": ""
+	},
+	{
+		"time":"1:30pm-2:30pm",
+		"room":"Track 1 : East room",
+		"title":"Corn",
+		"speaker":"Amy Grant",
+		"description":"The United States subsidizes corn.  Why should you care?  Amy will be talking about how the government's subsidies affect your diet when you might not even know it.",
+		"speakerbio": "Amy is a strong advocate for animal welfare.  She has done research across all 50 states on the topic including visiting local small farms and large factory farms.  She was kicked out of Monsanto when she went to interview them."
+	},
+	{
+		"time":"1:30pm-2:30pm",
+		"room":"Track 2 : West room",
+		"title":"Protein Sources",
+		"speaker":"Matt Peharda",
+		"description":"Matt will be discussing alternative sources for protein.  He will be explaining how you can get all the protein that you need in vegetables and other legumes.",
+		"speakerbio": "Matt is an impressive runner and nurtitional expert.  He has researched over 1,000 books on the topic of nutrition when participating in endurance sports.  Matt is also the author of an autobiography that he wrote during his undergraduate years at Monmoth University."
+	},
+	{
+		"time":"2:30pm-3:30pm",
+		"room":"Track 1 : East room",
+		"title":"Thrive - A Local Vegan Restaurant",
+		"speaker":"Thrive",
+		"description":"Thrive will be offering their personalized catered vegan meals hand crafted to perfection.",
+		"speakerbio": "Thrive restaurants has received more than thirty awards from animal rights and welfare groups across the country.  Their unique and tasty meals display some of the many delicious vegan options one can get on a vegan diet."
+	},
+	{
+		"time":"2:30pm-3:30pm",
+		"room":"Track 2 : West room",
+		"title":"Ominvors Dilemma",
+		"speaker":"Arthur",
+		"description":"Learn about the book that inspired an entire movement to look into good farming practices and animal welfare.",
+		"speakerbio": "Arthur is a wonderful yellow labrador retriever.  He enjoys playing catch with tennis balls, jumping into lakes, and giving kisses for extended periods of time.  He also likes to cuddle."
+	},
+	{
+		"time":"4:30pm-5pm",
+		"room":"Main room",
+		"title":"Closing Remarks",
+		"speaker":"Erica Peharda",
+		"description":"Erica will be closing with a quick Q & A along with some fun quizzes to see what you have learned from your first day.  Rewards will be in the form of tickets for free alcoholic beverages.  You won't want to miss it!",
+		"speakerbio": "Thank you for joining us today!!!"
+	}
+]

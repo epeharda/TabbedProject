@@ -1,0 +1,74 @@
+[
+	{
+		"time":"8am-8:30am",
+		"room":"Lobby",
+		"title":"Late Registration",
+		"speaker":"",
+		"description":"Come to the registration tables and get your badge and goodie bags.",
+		"speakerbio": ""
+	},
+	{
+		"time":"9am-10:30am",
+		"room":"Main room",
+		"title":"Node.js",
+		"speaker":"Adam Write",
+		"description":"Event-driven I/O server-side JavaScript environment based on V8. Includes API documentation, change-log, examples and announcements.  Adam will be discussing the node server and it's abilities as it relates to web app development.  He will be discussing the terminal commands that come with node.js using the npm command.  We will also be talking about the front end packages that can be installed via nmp using Bower.js",
+		"speakerbio": "Adam has been writing for node.js for about ten years."
+	},
+	{
+		"time":"10:30am-Noon",
+		"room":"Main Room",
+		"title":"More Node!",
+		"speaker":"Creat Walker",
+		"description":"Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System and IBM. Its work is hosted and supported by the Node.js Foundation, a Collaborative Project at Linux Foundation.",
+		"speakerbio": "Creat was born and raised on a farm outside of Lexington Kentucky.  He moved to the north east where he embarked on a 3 month hike along the Appalacian Trail at the age of fourteen.  He is the youngest hiker to complete the trail in such a short time."
+	},
+	{
+		"time":"Noon-1:30pm",
+		"room":"",
+		"title":"Lunch",
+		"speaker":"",
+		"description":"Go across the street and visit our food trucks, featuring tacos, sushi, gyros and a huge selection of meatless hotdogs.",
+		"speakerbio": ""
+	},
+	{
+		"time":"1:30pm-2:30pm",
+		"room":"Track 1 : East room",
+		"title":"Facebook - ReactJS",
+		"speaker":"George Walker Bush",
+		"description":"React is a JavaScript Library for building user interfaces.  Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, it's easy to try it out on a small feature in an existing project.  React abstracts away the DOM from you, giving a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native.",
+		"speakerbio": "George Walker Bush (born July 6, 1946) is an American politician and businessman who served as the 43rd President of the United States from 2001 to 2009, and the 46th Governor of Texas from 1995 to 2000."
+	},
+	{
+		"time":"1:30pm-2:30pm",
+		"room":"Track 2 : West room",
+		"title":"Bower",
+		"speaker":"Steve Kirk",
+		"description":"Web sites are made of lots of things — frameworks, libraries, assets, utilities, and rainbows. Bower manages all these things for you.  Bower is optimized for the front-end. Bower uses a flat dependency tree, requiring only one version for each package, reducing page load to a minimum.",
+		"speakerbio": "Steve ran the command ship Enterprise.  He is best known for his discovery of worm holes in the universe, enabling him to travel from one time period to another within seconds."
+	},
+	{
+		"time":"2:30pm-3:30pm",
+		"room":"Track 1 : East room",
+		"title":"Seinfeld",
+		"speaker":"Jerry Seinfeld",
+		"description":"Seinfeld is a sitcom that originally ran for nine seasons on NBC from July 5, 1989, to May 14, 1998. It was created by Larry David and Jerry Seinfeld, the latter starring as a fictionalized version of himself. Set predominantly in an apartment block in Manhattan's Upper West Side in New York City, the show features a handful of Jerry's friends and acquaintances, particularly best friend George Costanza (Jason Alexander), former girlfriend Elaine Benes (Julia Louis-Dreyfus), and neighbor across the hall Cosmo Kramer (Michael Richards).",
+		"speakerbio": "Jerome Allen (Jerry) Seinfeld (born April 29, 1954)[9] is an American comedian, actor, writer, and producer. He is known for playing a semifictional version of himself in the sitcom Seinfeld (1989–1998), which he co-created and co-wrote with Larry David."
+	},
+	{
+		"time":"2:30pm-3:30pm",
+		"room":"Track 2 : West room",
+		"title":"Living in the Mountains",
+		"speaker":"Lew Ferguson",
+		"description":"Do you dream of having your own well-built, beautiful, energy efficient cabin in the woods, by a lake or river, or in a wide open pasture?   If so, come on in and visit us to learn more about our Amish-crafted cabins",
+		"speakerbio": "Lew Ferguson, Sales Manager.  Lew lives in the Ashland KY area and retired after 43 years of maintenance and production experience with Armco and AK Steel.  He and his wife Eva have been married over 50 years and have 7 children.  He served a full-time church mission in the Smoky Mountains area of Tennessee.  Lew hobbies include woodcarving, painting, leatherworking, hiking, and reading. "
+	},
+	{
+		"time":"4:30pm-5pm",
+		"room":"Main room",
+		"title":"Closing Remarks",
+		"speaker":"Steve Wozniak",
+		"description":"In this talk, Steve Wozniak will share his experiences as an awesome human being and how he doesn't cares that people don't really know or appreciate what he's done for the industry.",
+		"speakerbio": "David Notter is Professor of Animal and Poultry Sciences at Virginia Polytechnic Institute & State University.  He received a B.S. degree in Animal Science from The Ohio State University and the M.S. and Ph.D. in Animal Breeding from the University of Nebraska."
+	}
+]

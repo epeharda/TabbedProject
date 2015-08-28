@@ -1,0 +1,74 @@
+[
+	{
+		"time":"8am-9am",
+		"room":"Front Sidewalk",
+		"title":"Morning Walk",
+		"speaker":"",
+		"description":"Come on a morning walk to get your day started",
+		"speakerbio": ""
+	},
+	{
+		"time":"9am-10:30am",
+		"room":"Main room",
+		"title":"Keynote",
+		"speaker":"Amy Poehler",
+		"description":"Enjoy a great laugh!",
+		"speakerbio": "Amy Meredith Poehler is an American actress, comedian, voice artist, director, producer, and writer. She moved to Chicago in 1993 to study improv at The Second City and ImprovOlympic."
+	},
+	{
+		"time":"10:30am-Noon",
+		"room":"Main Room",
+		"title":"Trip to Eliches",
+		"speaker":"",
+		"description":"Get ready to ride some roller coasters!  We are taking a break to Elich Gardens to enjoy some rides and outdoor activities.",
+		"speakerbio": ""
+	},
+	{
+		"time":"Noon-1:30pm",
+		"room":"",
+		"title":"Lunch",
+		"speaker":"",
+		"description":"Go across the street and visit our food trucks, featuring tacos, sushi, gyros and a huge selection of meatless hotdogs.",
+		"speakerbio": ""
+	},
+	{
+		"time":"1:30pm-2:30pm",
+		"room":"Track 1 : East room",
+		"title":"Musical Guest 1",
+		"speaker":"Alanis Morisette",
+		"description":"Hey yiah yiah.  Yiah yea yea.  Hey yiah.  An old man turned ninety-eight.  He won the lottery and died the next day.  It's a black fly in your Chardonnay.  It's a death row pardon two minutes too late.  Isn't it ironic.  Don't you think?.  It's like rain on your weddin' day.  It's a free ride when you've already paid.  It's the good advice that you just didn't take.  And who would've thought, it figures",
+		"speakerbio": "Alanis Nadine Morissette (born June 1, 1974) is a Canadian-American alternative rock singer-songwriter, guitarist, record producer, and actress. She has won 16 Juno Awards and seven Grammy Awards, was nominated for two Golden Globe Awards. "
+	},
+	{
+		"time":"1:30pm-2:30pm",
+		"room":"Track 2 : West room",
+		"title":"Musical Guest 2",
+		"speaker":"Weird Al",
+		"description":"Alfred Matthew (Weird Al Yankovic born October 23, 1959) is an American singer, songwriter, parodist, record producer, satirist, actor, music video director, film producer, and author.",
+		"speakerbio": "David Notter is Professor of Animal and Poultry Sciences at Virginia Polytechnic Institute & State University.  He received a B.S. degree in Animal Science from The Ohio State University and the M.S. and Ph.D. in Animal Breeding from the University of Nebraska."
+	},
+	{
+		"time":"2:30pm-3:30pm",
+		"room":"Track 1 : East room",
+		"title":"Musical Guest 3",
+		"speaker":"Death Cab for Cutie",
+		"description":"Love of mine, some day you will die.  But I'll be close behind.  I'll follow you into the dark.  No blinding light or tunnels to gates of white.  Just our hands clasped so tight.  Waiting for the hint of a spark",
+		"speakerbio": "Death Cab for Cutie is an American alternative rock band, formed in Bellingham, Washington in 1997.[6] The band comprises Ben Gibbard (vocals, guitar, piano), Nick Harmer (bass) and Jason McGerr (drums)."
+	},
+	{
+		"time":"2:30pm-3:30pm",
+		"room":"Track 2 : West room",
+		"title":"Musical Guest 4",
+		"speaker":"Matt Nathanson",
+		"description":"Come on get higher.",
+		"speakerbio": "Matt Nathanson (born March 28, 1973) is an American singer-songwriter whose work is a blend of folk and rock music. In addition to singing, he plays acoustic (sometimes a 12-string) and electric guitar, and has played both solo and with a full band."
+	},
+	{
+		"time":"4:30pm-5pm",
+		"room":"Main room",
+		"title":"Happy Hour",
+		"speaker":"",
+		"description":"Join us for some beverages at Oskar Blues.",
+		"speakerbio": "We will be accompanied by the Steep Canyon Rangers."
+	}
+]
